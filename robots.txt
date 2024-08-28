@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://bugsdruid.github.io/sitemap/sitemap.txt
